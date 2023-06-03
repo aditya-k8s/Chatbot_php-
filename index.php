@@ -7,7 +7,7 @@
 <head>
 
 
-<title>Login Page</title>
+<title>Login details Page</title>
 <link rel="stylesheet" href="css/stylex.css">
 -->
 <style>
