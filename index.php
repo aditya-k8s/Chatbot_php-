@@ -36,7 +36,7 @@
     }
     ?>
     
-    <h1>Welcome to My PHP Project ci cd pipelin</h1>
+    <h1>Welcome to My PHP CI CD Pipeline Project </h1>
     
     <form method="post" action="">
         <label for="name">Name:</label>
