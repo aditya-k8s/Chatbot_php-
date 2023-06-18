@@ -36,7 +36,7 @@
     }
     ?>
     
-    <h1>Welcome to My PHP CI CD Pipeline project testing </h1>
+    <h1>lawde testing free </h1>
     
     <form method="post" action="">
         <label for="name">Name:</label>
